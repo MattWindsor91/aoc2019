@@ -1,0 +1,6 @@
+# DrRacket cruft
+compiled/
+*.bak
+
+# Input files
+day*.txt
